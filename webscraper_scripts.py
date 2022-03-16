@@ -1,4 +1,4 @@
-from inventory_scraper_module import background_coach_scrape, coach_scrape, pink_heart_purse_url, converse_url_lauren
+from inventory_scraper_module import background_coach_scrape, coach_scrape, pink_heart_purse_url
 import time
 import schedule
 import os
