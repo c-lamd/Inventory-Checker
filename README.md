@@ -3,3 +3,4 @@ My girlfriend really wanted a bag, but it was sold out:( I heard rumors online t
 
 # Coach Inventory Checker
 Web scraper that conducts real-time status checks on the availability of an item. Emails are sent on a hourly basis, and when an item is determined to be in stock, a unique alert email is sent.
+https://images.coach.com/is/image/Coach/c7658_imcah_a0?$mobileProduct$
